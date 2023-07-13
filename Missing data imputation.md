@@ -9,3 +9,4 @@
 |[NAOMI: Non-autoregressive multiresolution sequence imputation](https://proceedings.neurips.cc/paper_files/paper/2019/file/50c1f44e426560f3f2cdcb3e19e39903-Paper.pdf)|NeurIPS 2019||
 |[E2GAN:End-to-end generative adversarial network for multivariate time series imputation](https://www.ijcai.org/Proceedings/2019/0429.pdf)|IJCAI 2019||
 |[Generative semi-supervised learning for multivariate time series imputation](https://ojs.aaai.org/index.php/AAAI/article/view/17086)|AAAI 2021||
+|[Multi-directional Recurrent Neural Networks:A Novel Method for Estimating Missing Data](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_12.pdf)|ICML 2017||
