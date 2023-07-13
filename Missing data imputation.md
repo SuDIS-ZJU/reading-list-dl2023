@@ -2,7 +2,7 @@
 | Paper | Conference | Remark |
 | :---:| :---:| :---:|
 |[Missing value imputation on multidimensional time series](https://arxiv.org/abs/2103.01600)|VLDB 2021||
-|[Semi-Supervised Learning from Crowds Using Deep Generative Models](https://ojs.aaai.org/index.php/AAAI/article/view/11513)|AAAI 2018||
-|[Learning from Imperfect Annotations](https://arxiv.org/abs/2004.03473)|CoRR abs||
-|[End-to-End Weak Supervision](https://proceedings.neurips.cc/paper/2021/file/0e674a918ebca3f78bfe02e2f387689d-Paper.pdf)|NeurIPS 2021||
-|[Automating Weak Supervision to Label Training Data](https://www.vldb.org/pvldb/vol12/p223-varma.pdf)|VLDB 2018||
+|[BRITS:Bidirectional recurrent imputation for time series](https://proceedings.neurips.cc/paper_files/paper/2018/file/734e6bfcd358e25ac1db0a4241b95651-Paper.pdf)|NeurIPS 2018||
+|[Recurrent neural networks for multivariate time series with missing values.](https://www.nature.com/articles/s41598-018-24271-9#Sec17)|Scientific reports/nature 2018||
+|[Multivariate time series imputation by graph neural networks.](https://arxiv.org/abs/2108.00298)|ICLR 2022||
+|[ Mind the gap: An experimental evaluation of imputation of missing values techniques in time series](https://scholar.googleusercontent.com/scholar?q=cache:mDdkLLDm0MMJ:scholar.google.com/++Mind+the+gap:+An+experimental+evaluation+of+imputa-+%C2%B4+tion+of+missing+values+techniques+in+time+series&hl=zh-CN&as_sdt=0,5)|SAC 2018||
