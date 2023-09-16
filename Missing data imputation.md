@@ -10,3 +10,4 @@
 |[E2GAN:End-to-end generative adversarial network for multivariate time series imputation](https://www.ijcai.org/Proceedings/2019/0429.pdf)|IJCAI 2019||
 |[Generative semi-supervised learning for multivariate time series imputation](https://ojs.aaai.org/index.php/AAAI/article/view/17086)|AAAI 2021||
 |[Multi-directional Recurrent Neural Networks:A Novel Method for Estimating Missing Data](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_12.pdf)|ICML 2017||
+|[PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation](https://arxiv.org/abs/2302.09746)|ICDE 2023||
