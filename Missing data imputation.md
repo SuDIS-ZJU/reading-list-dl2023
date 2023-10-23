@@ -12,4 +12,4 @@
 |[Multi-directional Recurrent Neural Networks:A Novel Method for Estimating Missing Data](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_12.pdf)|ICML 2017|M-RNN|
 |[PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation](https://arxiv.org/abs/2302.09746)|ICDE 2023||
 |[CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper_files/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|NeurIPS 2021||
-
+|[Gp-vae: Deep probabilistic time series imputation]([https://arxiv.org/abs/2302.09746](http://proceedings.mlr.press/v108/fortuin20a/fortuin20a.pdf))|PMLR  2020||
