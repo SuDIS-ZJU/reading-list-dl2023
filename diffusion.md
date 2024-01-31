@@ -1,5 +1,6 @@
 ## ***Diffusion model reading list***
 | Paper | Conference | Remark |
 | :---:| :---:| :---:|
-|[Missing value imputation on multidimensional time series](https://arxiv.org/abs/2103.01600)|VLDB 2021||
+|[PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation](https://arxiv.org/abs/2302.09746)|ICDE 2023||
+|[CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper_files/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|NeurIPS 2021||
 
