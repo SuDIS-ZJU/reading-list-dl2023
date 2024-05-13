@@ -13,3 +13,4 @@
 |[PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation](https://arxiv.org/abs/2302.09746)|ICDE 2023||
 |[CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper_files/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|NeurIPS 2021||
 |[Gp-vae: Deep probabilistic time series imputation](http://proceedings.mlr.press/v108/fortuin20a/fortuin20a.pdf)|PMLR 2020||
+|[Truncated Diffusion Probabilistic Models](https://www.academia.edu/download/85545733/2202.09671v1.pdf)|||
